@@ -1,3 +1,6 @@
+# str-eat Fork
+This fork is created with the intention to modify the scope of tobacco to aid in the in silico creation of COFs along with MOFs
+
 # tobacco_3.0
 
 # Authors
